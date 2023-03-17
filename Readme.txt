@@ -1,0 +1,1 @@
+Para Ejecutar todos los test cases, utilizamos la siguiente instruccion: npx cypress run
